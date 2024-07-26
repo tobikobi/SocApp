@@ -12,11 +12,11 @@ namespace SocCL.Models
     {
         [Key]
         public int CommentId { get; set; }
+        public int PostId { get; set; }
         public string Body { get; set; } = string.Empty;
         public DateTime DateTime { get; set; } = DateTime.Now;
 
-        [ForeignKey("PostId")]
-        public Post? Post { get; set; }
+ 
 
     }
 }

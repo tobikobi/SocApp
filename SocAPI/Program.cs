@@ -13,6 +13,8 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddScoped<IPostRepo, PostRepo>();
+builder.Services.AddScoped<ICommentRepo, CommentRepo>();
+
 builder.Services.AddScoped<ApplicationDbContext>();
 var app = builder.Build();
 

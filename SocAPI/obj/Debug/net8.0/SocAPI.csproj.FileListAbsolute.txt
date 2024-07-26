@@ -74,3 +74,4 @@ C:\Users\SHREY\source\repos\SocialNet\SocAPI\obj\Debug\net8.0\refint\SocAPI.dll
 C:\Users\SHREY\source\repos\SocialNet\SocAPI\obj\Debug\net8.0\SocAPI.pdb
 C:\Users\SHREY\source\repos\SocialNet\SocAPI\obj\Debug\net8.0\SocAPI.genruntimeconfig.cache
 C:\Users\SHREY\source\repos\SocialNet\SocAPI\obj\Debug\net8.0\ref\SocAPI.dll
+C:\Users\SHREY\source\repos\SocialNet\SocAPI\obj\Debug\net8.0\SocAPI.sourcelink.json

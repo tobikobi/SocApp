@@ -12,3 +12,4 @@ C:\Users\SHREY\source\repos\SocialNet\SocCL\obj\Debug\net8.0\refint\SocCL.dll
 C:\Users\SHREY\source\repos\SocialNet\SocCL\obj\Debug\net8.0\SocCL.pdb
 C:\Users\SHREY\source\repos\SocialNet\SocCL\obj\Debug\net8.0\SocCL.genruntimeconfig.cache
 C:\Users\SHREY\source\repos\SocialNet\SocCL\obj\Debug\net8.0\ref\SocCL.dll
+C:\Users\SHREY\source\repos\SocialNet\SocCL\obj\Debug\net8.0\SocCL.sourcelink.json

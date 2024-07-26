@@ -21,8 +21,15 @@ namespace SocCL.Repository.Repos
         {
             using (var connection = _context.CreateConnection())
             {
-                var sql = "select * from Posts;";
-                var posts = await connection.QueryAsync<Post>(sql);
+                var sql = "select p.PostId as PostId, p.Title, p.Content, p.DateTime, c.CommentId, c.Body, C.DateTime from Posts p left join Comments c on p.PostId = c.PostId;";
+                var posts = await connection.QueryAsync<Post, Comment, Post>(sql, (post, comment) => {
+                    if (post.Comments == null)
+                    {
+                        post.Comments = new List<Comment>();
+                    }
+                    post.Comments.Add(comment);
+                    return post; }, 
+                    splitOn: "CommentId");
                 return posts.ToList();
 
             }
@@ -32,8 +39,15 @@ namespace SocCL.Repository.Repos
         {
             using (var connection = _context.CreateConnection())
             {
-                var sql = "select * from Posts where PostId = @Id";
-                var post = await connection.QueryAsync<Post>(sql, new {Id = id});
+                var sql = "select p.PostId as PostId, p.Title, p.Content, p.DateTime, c.CommentId, c.Body, c.DateTime from Posts p left join Comments c on p.PostId = c.PostId where p.PostId = @Id";
+                var post = await connection.QueryAsync<Post, Comment, Post>(sql, (post, comment) => {
+                    if (post.Comments == null)
+                    {
+                        post.Comments = new List<Comment>();
+                    }
+                    post.Comments.Add(comment);
+                    return post; }, 
+                    splitOn: "CommentId", param: new { Id = id });
                 return post.FirstOrDefault();
             }
         }

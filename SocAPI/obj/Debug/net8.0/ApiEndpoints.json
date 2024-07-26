@@ -1,5 +1,63 @@
 [
   {
+    "ContainingType": "SocAPI.Controllers.CommentController",
+    "Method": "GetAllCommentAsync",
+    "RelativePath": "api/Comment/{PostId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "PostId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SocAPI.Controllers.CommentController",
+    "Method": "CreateCommentAsync",
+    "RelativePath": "api/Comment/{PostId}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "PostId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "commentDto",
+        "Type": "SocAPI.DTO.CommentDto.CreateCommentDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SocAPI.Controllers.CommentController",
+    "Method": "UpdateCommentAsync",
+    "RelativePath": "api/Comment/{PostId}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "PostId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "commentDto",
+        "Type": "SocAPI.DTO.CommentDto.UpdateCommentDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "SocAPI.Controllers.PostController",
     "Method": "GetAllPostAsync",
     "RelativePath": "api/Post",
