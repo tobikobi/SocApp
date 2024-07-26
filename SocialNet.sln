@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.34909.67
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SocCL", "SocCL\SocCL.csproj", "{1936EDDB-D40B-4242-B3BE-305846F69B6C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocAPI", "SocAPI\SocAPI.csproj", "{70440F53-9643-49D0-9DC3-5B67C90C9FFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1936EDDB-D40B-4242-B3BE-305846F69B6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1936EDDB-D40B-4242-B3BE-305846F69B6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1936EDDB-D40B-4242-B3BE-305846F69B6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1936EDDB-D40B-4242-B3BE-305846F69B6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70440F53-9643-49D0-9DC3-5B67C90C9FFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70440F53-9643-49D0-9DC3-5B67C90C9FFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70440F53-9643-49D0-9DC3-5B67C90C9FFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70440F53-9643-49D0-9DC3-5B67C90C9FFF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30F98109-81C3-4716-8708-C5CBF8075DBF}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+C:\Users\SHREY\source\repos\SocialNet\SocCL\bin\Debug\net8.0\SocCL.deps.json
+C:\Users\SHREY\source\repos\SocialNet\SocCL\bin\Debug\net8.0\SocCL.runtimeconfig.json
+C:\Users\SHREY\source\repos\SocialNet\SocCL\bin\Debug\net8.0\SocCL.dll
+C:\Users\SHREY\source\repos\SocialNet\SocCL\bin\Debug\net8.0\SocCL.pdb
+C:\Users\SHREY\source\repos\SocialNet\SocCL\obj\Debug\net8.0\SocCL.csproj.AssemblyReference.cache
+C:\Users\SHREY\source\repos\SocialNet\SocCL\obj\Debug\net8.0\SocCL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SHREY\source\repos\SocialNet\SocCL\obj\Debug\net8.0\SocCL.AssemblyInfoInputs.cache
+C:\Users\SHREY\source\repos\SocialNet\SocCL\obj\Debug\net8.0\SocCL.AssemblyInfo.cs
+C:\Users\SHREY\source\repos\SocialNet\SocCL\obj\Debug\net8.0\SocCL.csproj.CoreCompileInputs.cache
+C:\Users\SHREY\source\repos\SocialNet\SocCL\obj\Debug\net8.0\SocCL.dll
+C:\Users\SHREY\source\repos\SocialNet\SocCL\obj\Debug\net8.0\refint\SocCL.dll
+C:\Users\SHREY\source\repos\SocialNet\SocCL\obj\Debug\net8.0\SocCL.pdb
+C:\Users\SHREY\source\repos\SocialNet\SocCL\obj\Debug\net8.0\SocCL.genruntimeconfig.cache
+C:\Users\SHREY\source\repos\SocialNet\SocCL\obj\Debug\net8.0\ref\SocCL.dll
