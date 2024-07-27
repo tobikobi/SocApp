@@ -1,6 +1,5 @@
-using Microsoft.EntityFrameworkCore;
 using Npgsql;
-using SocCL;
+using SocCL.Repository;
 using SocCL.Repository.IRepos;
 using SocCL.Repository.Repos;
 

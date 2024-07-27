@@ -2,14 +2,15 @@
 using Dapper;
 using Npgsql;
 using Microsoft.Extensions.Configuration;
-namespace SocCL
+namespace SocCL.Repository
 {
 
     public class ApplicationDbContext
     {
 
         private readonly IConfiguration _configuration;
-        public ApplicationDbContext(IConfiguration configuration) { 
+        public ApplicationDbContext(IConfiguration configuration)
+        {
             _configuration = configuration;
         }
         public NpgsqlConnection CreateConnection()

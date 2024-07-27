@@ -10,10 +10,6 @@ C:\Users\SHREY\source\repos\SocialNet\SocAPI\bin\Debug\net8.0\Azure.Identity.dll
 C:\Users\SHREY\source\repos\SocialNet\SocAPI\bin\Debug\net8.0\Dapper.dll
 C:\Users\SHREY\source\repos\SocialNet\SocAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\SHREY\source\repos\SocialNet\SocAPI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
-C:\Users\SHREY\source\repos\SocialNet\SocAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
-C:\Users\SHREY\source\repos\SocialNet\SocAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\SHREY\source\repos\SocialNet\SocAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Users\SHREY\source\repos\SocialNet\SocAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
 C:\Users\SHREY\source\repos\SocialNet\SocAPI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
 C:\Users\SHREY\source\repos\SocialNet\SocAPI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
 C:\Users\SHREY\source\repos\SocialNet\SocAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
@@ -51,8 +47,6 @@ C:\Users\SHREY\source\repos\SocialNet\SocAPI\bin\Debug\net8.0\runtimes\win-arm64
 C:\Users\SHREY\source\repos\SocialNet\SocAPI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
 C:\Users\SHREY\source\repos\SocialNet\SocAPI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
 C:\Users\SHREY\source\repos\SocialNet\SocAPI\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
-C:\Users\SHREY\source\repos\SocialNet\SocAPI\bin\Debug\net8.0\SocCL.dll
-C:\Users\SHREY\source\repos\SocialNet\SocAPI\bin\Debug\net8.0\SocCL.pdb
 C:\Users\SHREY\source\repos\SocialNet\SocAPI\obj\Debug\net8.0\SocAPI.csproj.AssemblyReference.cache
 C:\Users\SHREY\source\repos\SocialNet\SocAPI\obj\Debug\net8.0\SocAPI.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\SHREY\source\repos\SocialNet\SocAPI\obj\Debug\net8.0\SocAPI.AssemblyInfoInputs.cache

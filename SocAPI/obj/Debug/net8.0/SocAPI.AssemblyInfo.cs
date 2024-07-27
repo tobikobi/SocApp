@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SocAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f5cd34194780d457bc2eaacbb318ecb8706d524a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1da9b5bbf32ecb1adc2f077fef986f4c92d44952")]
 [assembly: System.Reflection.AssemblyProductAttribute("SocAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SocAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
